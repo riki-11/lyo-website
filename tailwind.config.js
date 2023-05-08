@@ -31,6 +31,10 @@ module.exports = {
         title: ['Roboto Slab'],
         body: ['Abel']  
       }, 
+      height : {
+        "half-screen": '50vh',
+        "75-screen": '75vh',
+      }
     },
   },
   plugins: [],

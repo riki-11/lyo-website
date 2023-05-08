@@ -6,6 +6,7 @@ export default function Header() {
     <header className="bg-lyo-darkgreen w-full p-5 md:px-8 drop-shadow-lg">
       <nav className="flex flex-wrap">
         <div className="w-2/3 lg:w-1/2">
+          {/** Add the LYO logo */}
           <a className="text-3xl md:text-5xl text-lyo-cream font-title" href="#">Lasallian Youth Orchestra</a>
         </div>
         {/* Menu Options: About Us, Performances, Join FamiLYO, Forte 2023 */}
