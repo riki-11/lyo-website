@@ -34,6 +34,9 @@ module.exports = {
       height : {
         "half-screen": '50vh',
         "75-screen": '75vh',
+      },
+      borderRadius: {
+        '80': '80px'
       }
     },
   },

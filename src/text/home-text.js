@@ -1,0 +1,4 @@
+export const homeText = {
+  meet: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna porttitor rhoncus dolor purus non enim. Donec ac odio tempor orci dapibus ultrices in iaculis nunc. Facilisis mauris sit amet massa vitae tortor condimentum. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Egestas tellus rutrum tellus pellentesque. Bibendum at varius vel pharetra vel turpis. Vel elit scelerisque mauris pellentesque pulvinar. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Bibendum est ultricies integer quis auctor elit.",
+  performances: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id." 
+};

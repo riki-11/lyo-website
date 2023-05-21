@@ -6,7 +6,8 @@
       "@/pages/*": ["src/pages/*"],
       "@/components/*": ["src/components/*"],
       "@/videos/*": ["public/videos/*"],
-      "@/images/*": ["public/images/*"]
+      "@/images/*": ["public/images/*"],
+      "@/text/*": ["src/text/*"]
     }
   }
 }
